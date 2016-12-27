@@ -15,11 +15,10 @@ TODO:
 - Dropdown menus (no rush)
   In study and to be explored. No plans at the moment to implement
 
-
--  Portal     Info     Podcast     Meshmap     Downloads     English
--             Wiki                             Firmware
--             Forum                            Extras
--             Bugs
+  Top menu: Portal   Info   Podcast   Meshmap   Downloads   English
+ 
+  Under info, we will have: wiki, forum & bugs
+  Under downloads, we will have: firmware & extras
 
 - Note about the changes: 
   Should be made in a simplistic way and not to depend on any extra software or dependencies
