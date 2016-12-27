@@ -16,10 +16,10 @@ TODO:
   In study and to be explored. No plans at the moment to implement
 
 
-  Portal     Info     Podcast     Meshmap     Downloads     English
-             Wiki                             Firmware
-             Forum                            Extras
-             Bugs
+-  Portal     Info     Podcast     Meshmap     Downloads     English
+-             Wiki                             Firmware
+-             Forum                            Extras
+-             Bugs
 
 - Note about the changes: 
   Should be made in a simplistic way and not to depend on any extra software or dependencies
