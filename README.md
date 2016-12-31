@@ -18,6 +18,7 @@ TODO:
   Top menu: Portal   Info   Podcast   Meshmap   Downloads   English
  
   Under info, we will have: wiki, forum & bugs
+
   Under downloads, we will have: firmware & extras
 
 - Note about the changes: 
@@ -28,3 +29,6 @@ TODO:
   account ( /?hl=es )
 
 - XAMP server to be under chat menu (less priority than spanish language feature)
+
+- Page display video: 
+  Should the video be removed and have a static image ? (...thinking...)
